@@ -1,0 +1,9 @@
+#blog {
+	margin-top: 60px;
+}
+
+#blog .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
